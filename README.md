@@ -29,12 +29,12 @@ I'm interested in Artificial Intelligence, Web Development, Robotics, and Proble
 - Explored PID control and parameter tuning for line-following performance.
 - Integrated an OLED display for robot status and interface.
 
-## 💻 Technologies
-
+## 💻Skills & Technologies
 - **Languages:** C, C++,PYTHON (Learning)
 - **Web Development:** HTML, CSS, PHP
 - **Database:** MySQL
 - **Robotics:** Arduino, Sensor Integration, PID Control
+- **Graphics Design:** Basic Graphic Design
 - **Tools:** Git, GitHub, VS Code
 ## 🎯 Goals
 
