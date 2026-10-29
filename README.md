@@ -1,6 +1,6 @@
 # Hi, I'm Wasim Mia 👋
 
-### CSE Undergraduate Student | Aspiring Software Engineer
+### CSE Undergraduate Student 
 
 I'm a Computer Science and Engineering student at Kishoreganj University, Bangladesh.
 
